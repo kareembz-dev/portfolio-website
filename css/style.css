@@ -133,7 +133,7 @@ body {
 .dark-mode-toggle {
     position: fixed;
     top: 20px;
-    right: 20px;
+    right: 80px;
     z-index: 1001;
     background: var(--primary-color);
     color: white;
